@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"pasteImage.path": "${currentFileDir}/images/${currentFileNameWithoutExt}",
+		"pasteImage.basePath": "${currentFileDir}",
+		"pasteImage.namePrefix": "${currentFileNameWithoutExt}_",
+		"pasteImage.forceUnixStyleSeparator": true,
+		"pasteImage.prefix": "/",
+	}
+}
